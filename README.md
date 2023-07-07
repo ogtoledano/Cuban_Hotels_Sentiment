@@ -4,16 +4,16 @@ A compilation of the data available on TripAdvisor concerning hotels, villas, ho
 
 The dataset has a total of 17988 examples and is structured in the following fields:
 
-*{Title:} The title that the tourist himself gave to his opinion. {Data type:} Text
-*{Opinion:} The opinion issued by the tourist. {Data type:} Text
-*{Polarity:} The label that represents the polarity of the opinion. {Data type:} [1, 2, 3, 4, 5]
-*{Date :} Date the opinion was issued. {Data type:} Date
+* {Title:} The title that the tourist himself gave to his opinion. {Data type:} Text
+* {Opinion:} The opinion issued by the tourist. {Data type:} Text
+* {Polarity:} The label that represents the polarity of the opinion. {Data type:} [1, 2, 3, 4, 5]
+* {Date :} Date the opinion was issued. {Data type:} Date
 
 ## Example of review:
 ```console
 Ha sido una experiencia maravillosa, estuvimos una Semana y fue la mejor semana, el personal es demasiado gentil, el desayuno es delicioso y hay mucha variedad y la vista al mar es muy hermosa ( aconsejo ver el atardecer) una de las mejores estadías que he tenido , volvería una y mil veces más
 ```
-###Label: 5
+### Label: 5
 
 ## Distribution of reviews per Label:
 ```console
