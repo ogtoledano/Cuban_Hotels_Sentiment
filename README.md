@@ -10,9 +10,12 @@ The dataset has a total of 17988 examples and is structured in the following fie
 *{Date :} Date the opinion was issued. {Data type:} Date
 
 ## Example of review:
+```console
 Ha sido una experiencia maravillosa, estuvimos una Semana y fue la mejor semana, el personal es demasiado gentil, el desayuno es delicioso y hay mucha variedad y la vista al mar es muy hermosa ( aconsejo ver el atardecer) una de las mejores estadías que he tenido , volvería una y mil veces más
-Label: 5
+```
+###Label: 5
 
 ## Distribution of reviews per Label:
-
+```console
 {'0': 1695, '1': 1564, '2': 3572, '3': 4254, '4': 6903}
+```
